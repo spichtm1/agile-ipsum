@@ -65,7 +65,8 @@ const dict = {
         "improvise",
         "adapt",
         "overcome",
-        "generate"
+        "generate",
+        "update"
     ],
     "adjective": [
         "agile",
